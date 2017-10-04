@@ -36,4 +36,6 @@ Route::post('/mensajeAgur', function () {
     return view('mensajeAgur');
 });
 
+Route::post('/mensajeAgur','CorreoController@anadirCorreo');
+
 
