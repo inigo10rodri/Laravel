@@ -1,9 +1,12 @@
 <html>
 <head>
     <title>Principal</title>
-</head>
-<body>
 
-</body>
+
+</head>
+
+<body>
 @yield('content')
+</body>
+
 </html>

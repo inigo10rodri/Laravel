@@ -13,6 +13,5 @@
     	<input type= "email" name="correo" value="Correo electronico" required></input><br>
 		<input type="text" name="nombre" value="Nombre" required></input><br>
 		<input type="submit" name="aceptar" value="Enviar"></input>
-
 </form>
 

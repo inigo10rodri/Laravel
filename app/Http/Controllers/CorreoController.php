@@ -22,6 +22,5 @@ class CorreoController extends Controller
         $correo->save();
         //devolvemos la vista contenida en mensajeAgur
         return (view('/mensajeAgur'));
-
     }
 }
